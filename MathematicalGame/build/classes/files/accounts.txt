@@ -1,0 +1,5 @@
+parent	sevda	1q2w3e
+child	zeynep	123
+child	ahmet	456
+child	samet	789
+child	ayse	123
